@@ -16023,10 +16023,8 @@ exports[`ssr snapshot test renders ./examples/form/demos/disabled.vue correctly 
                 </div>
               </div>
               <!--]-->
-            </div>
-            <!--[--><small class="t-upload__tips t-size-s">请选择单张图片文件上传</small>
+            </div><small class="t-upload__tips t-size-s">请选择单张图片文件上传</small>
             <!---->
-            <!--]-->
           </div>
           <!--]-->
           <!---->
@@ -47880,10 +47878,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/base.vue correctly 1`
   <!---->
   <!---->
   <!---->
+  <!----><small class="t-upload__tips t-size-s">上传文件大小在 5M 以内</small>
   <!---->
-  <!--[--><small class="t-upload__tips t-size-s">上传文件大小在 5M 以内</small>
-  <!---->
-  <!--]-->
 </div>
 <!--]-->
 `;
@@ -47933,10 +47929,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/custom-drag.vue corre
       </div>
       <!--]-->
     </div>
-    <!--[-->
     <!---->
     <!---->
-    <!--]-->
   </div>
 </div>
 `;
@@ -47969,9 +47963,7 @@ exports[`ssr snapshot test renders ./examples/upload/demos/draggable.vue correct
     <!---->
     <!---->
     <!---->
-    <!--[-->
     <!---->
-    <!--]-->
   </div>
 </div>
 `;
@@ -48008,10 +48000,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/file-flow-list.vue co
       <div class="t-upload__flow-bottom"><button class="t-button t-size-m t-button--variant-base t-button--theme-default t-is-disabled" type="button" disabled><span class="t-button__text"><!--[-->取消上传<!--]--></span></button><button class="t-button t-size-m t-button--variant-base t-button--theme-primary t-is-disabled" type="button" disabled><span class="t-button__text"><!--[-->开始上传<!--]--></span></button></div>
     </div>
     <!---->
-    <!--[-->
     <!---->
     <!---->
-    <!--]-->
   </div>
 </div>
 `;
@@ -48048,10 +48038,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/file-flow-list-batch-
       <div class="t-upload__flow-bottom"><button class="t-button t-size-m t-button--variant-base t-button--theme-default t-is-disabled" type="button" disabled><span class="t-button__text"><!--[-->取消上传<!--]--></span></button><button class="t-button t-size-m t-button--variant-base t-button--theme-primary t-is-disabled" type="button" disabled><span class="t-button__text"><!--[-->开始上传<!--]--></span></button></div>
     </div>
     <!---->
-    <!--[-->
     <!---->
     <!---->
-    <!--]-->
   </div>
 </div>
 `;
@@ -48093,10 +48081,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/image.vue correctly 1
           </div>
         </div>
         <!--]-->
-      </div>
-      <!--[--><small class="t-upload__tips t-size-s">请选择单张图片文件上传（上传成功状态演示）</small>
+      </div><small class="t-upload__tips t-size-s">请选择单张图片文件上传（上传成功状态演示）</small>
       <!---->
-      <!--]-->
     </div>
   </div>
   <div class="tdesign-demo-upload-item">
@@ -48134,10 +48120,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/image.vue correctly 1
           </div>
         </div>
         <!--]-->
-      </div>
-      <!--[--><small class="t-upload__tips t-size-s">请选择单张图片文件上传（上传失败状态演示）</small>
+      </div><small class="t-upload__tips t-size-s">请选择单张图片文件上传（上传失败状态演示）</small>
       <!---->
-      <!--]-->
     </div>
   </div>
   <div class="tdesign-demo-upload-item">
@@ -48175,10 +48159,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/image.vue correctly 1
           </div>
         </div>
         <!--]-->
-      </div>
-      <!--[--><small class="t-upload__tips t-size-s">请选择单张图片文件上传（自定义预览图片地址）</small>
+      </div><small class="t-upload__tips t-size-s">请选择单张图片文件上传（自定义预览图片地址）</small>
       <!---->
-      <!--]-->
     </div>
   </div>
   <div class="tdesign-demo-upload-item">
@@ -48216,10 +48198,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/image.vue correctly 1
           </div>
         </div>
         <!--]-->
-      </div>
-      <!--[--><small class="t-upload__tips t-size-s">允许选择多张图片文件上传，最多只能上传 3 张图片</small>
+      </div><small class="t-upload__tips t-size-s">允许选择多张图片文件上传，最多只能上传 3 张图片</small>
       <!---->
-      <!--]-->
     </div>
   </div>
 </div>
@@ -48264,10 +48244,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/img-flow-list.vue cor
       </div>
       <!--]-->
     </div>
-    <!--[-->
     <!---->
     <!---->
-    <!--]-->
   </div>
 </div>
 `;
@@ -48301,9 +48279,7 @@ exports[`ssr snapshot test renders ./examples/upload/demos/listType.vue correctl
       <!---->
       <!---->
       <!---->
-      <!--[-->
       <!---->
-      <!--]-->
     </div>
   </header>
 </section>
@@ -48340,10 +48316,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/request-method.vue co
     <!---->
     <!---->
     <!---->
+    <!----><small class="t-upload__tips t-size-s">自定义上传方法需要返回成功或失败信息</small>
     <!---->
-    <!--[--><small class="t-upload__tips t-size-s">自定义上传方法需要返回成功或失败信息</small>
-    <!---->
-    <!--]-->
   </div>
 </div>
 `;
@@ -48378,10 +48352,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/single-custom.vue cor
           </div>
         </div>
         <!--]-->
-      </div>
-      <!--[--><small class="t-upload__tips t-size-s">上传文件大小在 5M 以内</small>
+      </div><small class="t-upload__tips t-size-s">上传文件大小在 5M 以内</small>
       <!---->
-      <!--]-->
     </div>
     <!--v-if-->
   </div>
@@ -48410,10 +48382,8 @@ exports[`ssr snapshot test renders ./examples/upload/demos/single-input.vue corr
       <!---->
       <!---->
       <!---->
-      <!--[-->
       <!---->
       <!---->
-      <!--]-->
     </div>
   </div>
 </div>
@@ -48447,9 +48417,7 @@ exports[`ssr snapshot test renders ./examples/upload/demos/table.vue correctly 1
       <!---->
       <!---->
       <!---->
-      <!--[-->
       <!---->
-      <!--]-->
     </div>
   </header>
   <div class="tdesign-demo-upload-table">
